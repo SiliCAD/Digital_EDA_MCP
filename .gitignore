@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.DS_Store
+logs/
+temp/
+workboard/*
+!workboard/.gitkeep
+.venv/
+discussion-synopsys
+run_remote.py
